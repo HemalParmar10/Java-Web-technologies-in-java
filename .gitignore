@@ -1,0 +1,21 @@
+# Compiled Java files
+*.class
+
+# Eclipse files
+.project
+.classpath
+.settings/
+
+# Build folders
+bin/
+target/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Workspace metadata
+.metadata/
+
+# Logs
+*.log
